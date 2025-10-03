@@ -1,0 +1,6 @@
+**/*.sif
+**/*.ckpt
+
+spine
+spine-prod
+OpT0Finder
