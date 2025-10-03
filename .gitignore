@@ -1,6 +1,8 @@
 **/*.sif
 **/*.ckpt
 
+.ipynb_checkpoints
+
 spine
 spine-prod
 OpT0Finder
